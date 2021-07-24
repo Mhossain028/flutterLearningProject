@@ -1,0 +1,72 @@
+{
+    "products":[
+        {
+            "id": "hossain001",
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":"https://digitalcontent.api.tesco.com/v2/media/tescomobile/03be9818-c01c-4e86-871e-7808edb0e8a9/iPhone_12_Pro_Max_Gold_PDP_Image_Position-2__en-US.png"
+        },
+
+        {
+            "id": "hossain002",
+            "name": "Pixel 5",
+            "desc": "Google Pixel Phone 5th Generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image":"https://cdn.idealo.com/folder/Product/200688/2/200688201/s3_produktbild_max/google-pixel-5.jpg"
+        },
+
+        {
+            "id": "hossain003",
+            "name": "M1 Mackbook Air",
+            "desc": "Apple Mackbook Air with Bionic Chipset",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-og-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1604278672000"
+        },
+        {
+            "id": "hossain004",
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th Generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image":"https://securecontent.jackyselectronics.com/Images/product-images/1ce020c3-ff45-4d87-a2c3-3f4c40c01416.jpg"
+        },
+        {
+            "id": "hossain005",
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st Generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image":"https://fdn.gsmarena.com/imgroot/news/20/12/airpods-pro-2-sip-leak/-1200/gsmarena_004.jpg"
+        },
+        {
+            "id": "hossain006",
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-11-select-202104_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1617067383000"
+        },
+        {
+            "id": "hossain007",
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 Edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image":"https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-s21-ultra/lifestyle/-1200w5/gsmarena_003.jpg"
+        },
+        {
+            "id": "hossain008",
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 Edition",
+            "price": 899,
+            "color": "#7c95eb4",
+            "image":"https://www.gizmochina.com/wp-content/uploads/2020/12/1-12-500x500.jpg"
+        }
+
+        
+    ]
+}
