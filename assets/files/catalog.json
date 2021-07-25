@@ -1,7 +1,7 @@
 {
     "products":[
         {
-            "id": "hossain001",
+            "id": 1,
             "name": "iPhone 12 Pro",
             "desc": "Apple iPhone 12th Generation",
             "price": 999,
@@ -10,7 +10,7 @@
         },
 
         {
-            "id": "hossain002",
+            "id": 2,
             "name": "Pixel 5",
             "desc": "Google Pixel Phone 5th Generation",
             "price": 699,
@@ -19,7 +19,7 @@
         },
 
         {
-            "id": "hossain003",
+            "id": 3,
             "name": "M1 Mackbook Air",
             "desc": "Apple Mackbook Air with Bionic Chipset",
             "price": 1099,
@@ -27,7 +27,7 @@
             "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-og-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1604278672000"
         },
         {
-            "id": "hossain004",
+            "id": 4,
             "name": "Playstation 5",
             "desc": "Sony Playstation 5th Generation",
             "price": 500,
@@ -35,7 +35,7 @@
             "image":"https://securecontent.jackyselectronics.com/Images/product-images/1ce020c3-ff45-4d87-a2c3-3f4c40c01416.jpg"
         },
         {
-            "id": "hossain005",
+            "id": 5,
             "name": "Airpods Pro",
             "desc": "Apple Airpods Pro 1st Generation",
             "price": 200,
@@ -43,7 +43,7 @@
             "image":"https://fdn.gsmarena.com/imgroot/news/20/12/airpods-pro-2-sip-leak/-1200/gsmarena_004.jpg"
         },
         {
-            "id": "hossain006",
+            "id": 6,
             "name": "iPad Pro",
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
@@ -51,7 +51,7 @@
             "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-11-select-202104_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1617067383000"
         },
         {
-            "id": "hossain007",
+            "id": 7,
             "name": "Galaxy S21 Ultra",
             "desc": "Samsung Galaxy S21 Ultra 2021 Edition",
             "price": 1299,
@@ -59,7 +59,7 @@
             "image":"https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-s21-ultra/lifestyle/-1200w5/gsmarena_003.jpg"
         },
         {
-            "id": "hossain008",
+            "id": 8,
             "name": "Galaxy S21",
             "desc": "Samsung Galaxy S21 2021 Edition",
             "price": 899,
